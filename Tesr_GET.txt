@@ -1,0 +1,9 @@
+{
+    "requestContext": {
+      "http": {
+        "method": "GET"
+      }
+    },
+    "body": "{\"user_prompt\": \"<s>[INST] Who are you? [/INST]\"}",
+    "isBase64Encoded": false
+  }

@@ -1,0 +1,12 @@
+{
+    "requestContext": {
+      "http": {
+        "method": "POST"
+      }
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": "{\"user_prompt\": \"<s>[INST] Who are you? [/INST]\"}",
+    "isBase64Encoded": false
+  }
